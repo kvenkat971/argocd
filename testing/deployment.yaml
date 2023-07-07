@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: rock971/venkat:1.0
+          image: rock971/venkat:1.2
           ports:
             - containerPort: 8080
